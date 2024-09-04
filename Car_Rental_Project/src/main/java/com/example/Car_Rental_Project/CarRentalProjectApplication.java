@@ -8,6 +8,8 @@ public class CarRentalProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CarRentalProjectApplication.class, args);
+
+		// this line to sure that code will push in github without any problem
 	}
 
 }
